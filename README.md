@@ -46,5 +46,5 @@ Adicione o link para assistir ao vídeo do projeto funcionando.
 * [line](https://docs.opencv.org/2.4/modules/core/doc/drawing_functions.html?highlight=line#cv2.line)
 * [init front (FONT_HERSHEY_SIMPLEX)](https://docs.opencv.org/2.4/modules/core/doc/drawing_functions.html?highlight=font_hershey_simplex)
 * [bitwise_or](https://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html?highlight=bitwise_or)
-* [HoughCircles]https://docs.opencv.org/2.4/modules/imgproc/doc/feature_detection.html?highlight=houghcircles)
+* [HoughCircles](https://docs.opencv.org/2.4/modules/imgproc/doc/feature_detection.html?highlight=houghcircles)
 * [bitwise_or](https://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html?highlight=bitwise_or)
